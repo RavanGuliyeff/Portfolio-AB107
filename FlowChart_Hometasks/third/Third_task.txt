@@ -1,0 +1,1 @@
+Verilmiş 278 ədədinin rəqəmləri cəmini tapın (2+7+8 <-- bunu tapan alqoritm yazmalısınız).
