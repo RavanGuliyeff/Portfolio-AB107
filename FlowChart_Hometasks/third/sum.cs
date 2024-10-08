@@ -1,7 +1,8 @@
-﻿int num = 278;
-int f = num / 100;
-int s = num % 100 / 10;
-int t = num % 10;
-int sum = f + s + t;
+﻿int num1 = 0;
+int num2 = 1;
 
-Console.WriteLine(sum);
+for (int i = 0; i < 10; i++)
+{
+    console.WriteLine(3)
+        cw
+}
