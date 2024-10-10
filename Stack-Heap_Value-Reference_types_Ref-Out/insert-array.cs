@@ -10,16 +10,29 @@ namespace ConsoleApp3
     {
         static void Main(string[] args)
         {
-            int[] arr;
-            InsertArray(out arr, 1, 2, 3, 5, 2);
+            int[] arr = { 4, 2, 6, 4, -1, 4, 0, -5 };
+            InsertArray(ref arr, 1, 2, 3, 5, 2);
             foreach (int i in arr)
             {
-                Console.WriteLine(i);
+                Console.Write(i + " ");
             }
         }
-        static void InsertArray(out int[] arr, params int[] arr2)
+        static void InsertArray(ref int[] arr, params int[] arr2)
         {
-            arr = arr2;
+            int[] newArr = new int[arr.Length + arr2.Length];
+
+            for (int i = 0; i < arr.Length; i++)
+            {
+                newArr[i] = arr[i];
+            }
+
+            for (int i = 0; i < arr2.Length; i++)
+            {
+                newArr[arr.Length + i] = arr2[i];
+            }
+
+            arr = newArr;
+
         }
     }
 }
