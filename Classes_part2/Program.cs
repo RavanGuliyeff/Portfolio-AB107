@@ -63,10 +63,49 @@
             //lib1.ShowAllBooks();
             //lib1.SearchBook();
 
+            Department department1 = new Department()
+            {
+                No = 1,
+                EmployeeLimit = 2
+            };
 
 
+            Employee employee1 = new Employee()
+            {
+                Name = "Rustam",
+                Surname = "Aliyev",
+                Age = 35,
+                DepartmentNo = 1,
+                Salary = 1450,
+                ID = "1098236"
+            };
+            
+            Employee employee2 = new Employee()
+            {
+                Name = "Eliabbas",
+                Surname = "Ilhamov",
+                Age = 60,
+                DepartmentNo = 1,
+                Salary = 1150,
+                ID = "1062456"
+            };
 
+            Employee employee3 = new Employee()
+            {
+                Name = "Huseyn",
+                Surname = "Akifli",
+                Age = 43,
+                DepartmentNo = 1,
+                Salary = 1750,
+                ID = "1053267"
+            };
+            
+            department1.AddEmployee(employee1);
+            department1.AddEmployee(employee2);
+            department1.AddEmployee(employee3);
 
+            //department1.GetEmployeeInfo();
+            department1.GetAllEmployeesBySalary();
 
         }
     }
