@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I Novbe\\Desktop\\Portfolio-AB107\\Encapsulation\\Encapsulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50EDFF8A-0DD2-4B80-9024-05AECA796FC8}|Encapsulation.csproj|c:\\users\\i novbe\\desktop\\portfolio-ab107\\encapsulation\\encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EDFF8A-0DD2-4B80-9024-05AECA796FC8}|Encapsulation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EDFF8A-0DD2-4B80-9024-05AECA796FC8}|Encapsulation.csproj|c:\\users\\i novbe\\desktop\\portfolio-ab107\\encapsulation\\encapsulation\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EDFF8A-0DD2-4B80-9024-05AECA796FC8}|Encapsulation.csproj|solutionrelative:vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EDFF8A-0DD2-4B80-9024-05AECA796FC8}|Encapsulation.csproj|c:\\users\\i novbe\\desktop\\portfolio-ab107\\encapsulation\\encapsulation\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EDFF8A-0DD2-4B80-9024-05AECA796FC8}|Encapsulation.csproj|solutionrelative:gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EDFF8A-0DD2-4B80-9024-05AECA796FC8}|Encapsulation.csproj|c:\\users\\i novbe\\desktop\\portfolio-ab107\\encapsulation\\encapsulation\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EDFF8A-0DD2-4B80-9024-05AECA796FC8}|Encapsulation.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EDFF8A-0DD2-4B80-9024-05AECA796FC8}|Encapsulation.csproj|c:\\users\\i novbe\\desktop\\portfolio-ab107\\encapsulation\\encapsulation\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EDFF8A-0DD2-4B80-9024-05AECA796FC8}|Encapsulation.csproj|solutionrelative:bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EDFF8A-0DD2-4B80-9024-05AECA796FC8}|Encapsulation.csproj|c:\\users\\i novbe\\desktop\\portfolio-ab107\\encapsulation\\encapsulation\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EDFF8A-0DD2-4B80-9024-05AECA796FC8}|Encapsulation.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50EDFF8A-0DD2-4B80-9024-05AECA796FC8}|Encapsulation.csproj|c:\\users\\i novbe\\desktop\\portfolio-ab107\\encapsulation\\encapsulation\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50EDFF8A-0DD2-4B80-9024-05AECA796FC8}|Encapsulation.csproj|solutionrelative:grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gallery.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\Portfolio-AB107\\Encapsulation\\Encapsulation\\Gallery.cs",
+              "RelativeDocumentMoniker": "Gallery.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\Portfolio-AB107\\Encapsulation\\Encapsulation\\Gallery.cs",
+              "RelativeToolTip": "Gallery.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:50:15.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bicycle.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\Portfolio-AB107\\Encapsulation\\Encapsulation\\Bicycle.cs",
+              "RelativeDocumentMoniker": "Bicycle.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\Portfolio-AB107\\Encapsulation\\Encapsulation\\Bicycle.cs",
+              "RelativeToolTip": "Bicycle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:23:47.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\Portfolio-AB107\\Encapsulation\\Encapsulation\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\Portfolio-AB107\\Encapsulation\\Encapsulation\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:23:36.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\Portfolio-AB107\\Encapsulation\\Encapsulation\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Vehicle.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\Portfolio-AB107\\Encapsulation\\Encapsulation\\Vehicle.cs",
+              "RelativeToolTip": "Vehicle.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:23:27.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\Portfolio-AB107\\Encapsulation\\Encapsulation\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\Portfolio-AB107\\Encapsulation\\Encapsulation\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwD0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:06:22.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\Portfolio-AB107\\Encapsulation\\Encapsulation\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\Portfolio-AB107\\Encapsulation\\Encapsulation\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:09:20.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\Portfolio-AB107\\Encapsulation\\Encapsulation\\Grade.cs",
+              "RelativeDocumentMoniker": "Grade.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\Portfolio-AB107\\Encapsulation\\Encapsulation\\Grade.cs",
+              "RelativeToolTip": "Grade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:09:04.592Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\I Novbe\Desktop\Portfolio-AB107\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.exe
+C:\Users\I Novbe\Desktop\Portfolio-AB107\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.deps.json
+C:\Users\I Novbe\Desktop\Portfolio-AB107\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.runtimeconfig.json
+C:\Users\I Novbe\Desktop\Portfolio-AB107\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.dll
+C:\Users\I Novbe\Desktop\Portfolio-AB107\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.pdb
+C:\Users\I Novbe\Desktop\Portfolio-AB107\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I Novbe\Desktop\Portfolio-AB107\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\I Novbe\Desktop\Portfolio-AB107\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfo.cs
+C:\Users\I Novbe\Desktop\Portfolio-AB107\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\I Novbe\Desktop\Portfolio-AB107\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.sourcelink.json
+C:\Users\I Novbe\Desktop\Portfolio-AB107\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.dll
+C:\Users\I Novbe\Desktop\Portfolio-AB107\Encapsulation\Encapsulation\obj\Debug\net8.0\refint\Encapsulation.dll
+C:\Users\I Novbe\Desktop\Portfolio-AB107\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.pdb
+C:\Users\I Novbe\Desktop\Portfolio-AB107\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.genruntimeconfig.cache
+C:\Users\I Novbe\Desktop\Portfolio-AB107\Encapsulation\Encapsulation\obj\Debug\net8.0\ref\Encapsulation.dll
