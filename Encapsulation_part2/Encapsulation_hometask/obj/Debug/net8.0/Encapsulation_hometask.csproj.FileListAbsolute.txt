@@ -1,0 +1,14 @@
+C:\Users\revan\Desktop\Encapsulation\Encapsulation_hometask\Encapsulation_hometask\bin\Debug\net8.0\Encapsulation_hometask.exe
+C:\Users\revan\Desktop\Encapsulation\Encapsulation_hometask\Encapsulation_hometask\bin\Debug\net8.0\Encapsulation_hometask.deps.json
+C:\Users\revan\Desktop\Encapsulation\Encapsulation_hometask\Encapsulation_hometask\bin\Debug\net8.0\Encapsulation_hometask.runtimeconfig.json
+C:\Users\revan\Desktop\Encapsulation\Encapsulation_hometask\Encapsulation_hometask\bin\Debug\net8.0\Encapsulation_hometask.dll
+C:\Users\revan\Desktop\Encapsulation\Encapsulation_hometask\Encapsulation_hometask\bin\Debug\net8.0\Encapsulation_hometask.pdb
+C:\Users\revan\Desktop\Encapsulation\Encapsulation_hometask\Encapsulation_hometask\obj\Debug\net8.0\Encapsulation_hometask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\revan\Desktop\Encapsulation\Encapsulation_hometask\Encapsulation_hometask\obj\Debug\net8.0\Encapsulation_hometask.AssemblyInfoInputs.cache
+C:\Users\revan\Desktop\Encapsulation\Encapsulation_hometask\Encapsulation_hometask\obj\Debug\net8.0\Encapsulation_hometask.AssemblyInfo.cs
+C:\Users\revan\Desktop\Encapsulation\Encapsulation_hometask\Encapsulation_hometask\obj\Debug\net8.0\Encapsulation_hometask.csproj.CoreCompileInputs.cache
+C:\Users\revan\Desktop\Encapsulation\Encapsulation_hometask\Encapsulation_hometask\obj\Debug\net8.0\Encapsulation_hometask.dll
+C:\Users\revan\Desktop\Encapsulation\Encapsulation_hometask\Encapsulation_hometask\obj\Debug\net8.0\refint\Encapsulation_hometask.dll
+C:\Users\revan\Desktop\Encapsulation\Encapsulation_hometask\Encapsulation_hometask\obj\Debug\net8.0\Encapsulation_hometask.pdb
+C:\Users\revan\Desktop\Encapsulation\Encapsulation_hometask\Encapsulation_hometask\obj\Debug\net8.0\Encapsulation_hometask.genruntimeconfig.cache
+C:\Users\revan\Desktop\Encapsulation\Encapsulation_hometask\Encapsulation_hometask\obj\Debug\net8.0\ref\Encapsulation_hometask.dll

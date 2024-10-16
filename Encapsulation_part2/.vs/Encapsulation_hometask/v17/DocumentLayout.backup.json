@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\revan\\Desktop\\Encapsulation\\Encapsulation_hometask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3D2893-0895-45CE-979E-7F764FB0AB23}|Encapsulation_hometask\\Encapsulation_hometask.csproj|c:\\users\\revan\\desktop\\encapsulation\\encapsulation_hometask\\encapsulation_hometask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3D2893-0895-45CE-979E-7F764FB0AB23}|Encapsulation_hometask\\Encapsulation_hometask.csproj|solutionrelative:encapsulation_hometask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3D2893-0895-45CE-979E-7F764FB0AB23}|Encapsulation_hometask\\Encapsulation_hometask.csproj|c:\\users\\revan\\desktop\\encapsulation\\encapsulation_hometask\\encapsulation_hometask\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3D2893-0895-45CE-979E-7F764FB0AB23}|Encapsulation_hometask\\Encapsulation_hometask.csproj|solutionrelative:encapsulation_hometask\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C3D2893-0895-45CE-979E-7F764FB0AB23}|Encapsulation_hometask\\Encapsulation_hometask.csproj|c:\\users\\revan\\desktop\\encapsulation\\encapsulation_hometask\\encapsulation_hometask\\custommethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C3D2893-0895-45CE-979E-7F764FB0AB23}|Encapsulation_hometask\\Encapsulation_hometask.csproj|solutionrelative:encapsulation_hometask\\custommethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomMethods.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\Encapsulation\\Encapsulation_hometask\\Encapsulation_hometask\\CustomMethods.cs",
+              "RelativeDocumentMoniker": "Encapsulation_hometask\\CustomMethods.cs",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\Encapsulation\\Encapsulation_hometask\\Encapsulation_hometask\\CustomMethods.cs",
+              "RelativeToolTip": "Encapsulation_hometask\\CustomMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:09:53.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\Encapsulation\\Encapsulation_hometask\\Encapsulation_hometask\\Person.cs",
+              "RelativeDocumentMoniker": "Encapsulation_hometask\\Person.cs",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\Encapsulation\\Encapsulation_hometask\\Encapsulation_hometask\\Person.cs",
+              "RelativeToolTip": "Encapsulation_hometask\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:55:02.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\Encapsulation\\Encapsulation_hometask\\Encapsulation_hometask\\Program.cs",
+              "RelativeDocumentMoniker": "Encapsulation_hometask\\Program.cs",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\Encapsulation\\Encapsulation_hometask\\Encapsulation_hometask\\Program.cs",
+              "RelativeToolTip": "Encapsulation_hometask\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:46:42.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
