@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\revan\\Desktop\\Programming\\Portfolio-AB107\\Practise_ConsoleApp\\Practise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0287A661-7779-4750-8F33-3127EE08AC6F}|Practise.csproj|c:\\users\\revan\\desktop\\programming\\portfolio-ab107\\practise_consoleapp\\practise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0287A661-7779-4750-8F33-3127EE08AC6F}|Practise.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0287A661-7779-4750-8F33-3127EE08AC6F}|Practise.csproj|c:\\users\\revan\\desktop\\programming\\portfolio-ab107\\practise_consoleapp\\practise\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0287A661-7779-4750-8F33-3127EE08AC6F}|Practise.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0287A661-7779-4750-8F33-3127EE08AC6F}|Practise.csproj|c:\\users\\revan\\desktop\\programming\\portfolio-ab107\\practise_consoleapp\\practise\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0287A661-7779-4750-8F33-3127EE08AC6F}|Practise.csproj|solutionrelative:department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\Programming\\Portfolio-AB107\\Practise_ConsoleApp\\Practise\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\Programming\\Portfolio-AB107\\Practise_ConsoleApp\\Practise\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:49:51.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\Programming\\Portfolio-AB107\\Practise_ConsoleApp\\Practise\\Department.cs",
+              "RelativeDocumentMoniker": "Department.cs",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\Programming\\Portfolio-AB107\\Practise_ConsoleApp\\Practise\\Department.cs",
+              "RelativeToolTip": "Department.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAuwFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:49:20.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\Programming\\Portfolio-AB107\\Practise_ConsoleApp\\Practise\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\Programming\\Portfolio-AB107\\Practise_ConsoleApp\\Practise\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwEwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:45:46.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

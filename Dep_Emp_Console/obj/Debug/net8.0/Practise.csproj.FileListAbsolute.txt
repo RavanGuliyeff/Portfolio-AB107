@@ -1,0 +1,29 @@
+C:\Users\I Novbe\Desktop\Practise\Practise\bin\Debug\net8.0\Practise.exe
+C:\Users\I Novbe\Desktop\Practise\Practise\bin\Debug\net8.0\Practise.deps.json
+C:\Users\I Novbe\Desktop\Practise\Practise\bin\Debug\net8.0\Practise.runtimeconfig.json
+C:\Users\I Novbe\Desktop\Practise\Practise\bin\Debug\net8.0\Practise.dll
+C:\Users\I Novbe\Desktop\Practise\Practise\bin\Debug\net8.0\Practise.pdb
+C:\Users\I Novbe\Desktop\Practise\Practise\obj\Debug\net8.0\Practise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I Novbe\Desktop\Practise\Practise\obj\Debug\net8.0\Practise.AssemblyInfoInputs.cache
+C:\Users\I Novbe\Desktop\Practise\Practise\obj\Debug\net8.0\Practise.AssemblyInfo.cs
+C:\Users\I Novbe\Desktop\Practise\Practise\obj\Debug\net8.0\Practise.csproj.CoreCompileInputs.cache
+C:\Users\I Novbe\Desktop\Practise\Practise\obj\Debug\net8.0\Practise.dll
+C:\Users\I Novbe\Desktop\Practise\Practise\obj\Debug\net8.0\refint\Practise.dll
+C:\Users\I Novbe\Desktop\Practise\Practise\obj\Debug\net8.0\Practise.pdb
+C:\Users\I Novbe\Desktop\Practise\Practise\obj\Debug\net8.0\Practise.genruntimeconfig.cache
+C:\Users\I Novbe\Desktop\Practise\Practise\obj\Debug\net8.0\ref\Practise.dll
+C:\Users\revan\Desktop\Programming\Portfolio-AB107\Practise_ConsoleApp\Practise\bin\Debug\net8.0\Practise.exe
+C:\Users\revan\Desktop\Programming\Portfolio-AB107\Practise_ConsoleApp\Practise\bin\Debug\net8.0\Practise.deps.json
+C:\Users\revan\Desktop\Programming\Portfolio-AB107\Practise_ConsoleApp\Practise\bin\Debug\net8.0\Practise.runtimeconfig.json
+C:\Users\revan\Desktop\Programming\Portfolio-AB107\Practise_ConsoleApp\Practise\bin\Debug\net8.0\Practise.dll
+C:\Users\revan\Desktop\Programming\Portfolio-AB107\Practise_ConsoleApp\Practise\bin\Debug\net8.0\Practise.pdb
+C:\Users\revan\Desktop\Programming\Portfolio-AB107\Practise_ConsoleApp\Practise\obj\Debug\net8.0\Practise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\revan\Desktop\Programming\Portfolio-AB107\Practise_ConsoleApp\Practise\obj\Debug\net8.0\Practise.AssemblyInfoInputs.cache
+C:\Users\revan\Desktop\Programming\Portfolio-AB107\Practise_ConsoleApp\Practise\obj\Debug\net8.0\Practise.AssemblyInfo.cs
+C:\Users\revan\Desktop\Programming\Portfolio-AB107\Practise_ConsoleApp\Practise\obj\Debug\net8.0\Practise.csproj.CoreCompileInputs.cache
+C:\Users\revan\Desktop\Programming\Portfolio-AB107\Practise_ConsoleApp\Practise\obj\Debug\net8.0\Practise.sourcelink.json
+C:\Users\revan\Desktop\Programming\Portfolio-AB107\Practise_ConsoleApp\Practise\obj\Debug\net8.0\Practise.dll
+C:\Users\revan\Desktop\Programming\Portfolio-AB107\Practise_ConsoleApp\Practise\obj\Debug\net8.0\refint\Practise.dll
+C:\Users\revan\Desktop\Programming\Portfolio-AB107\Practise_ConsoleApp\Practise\obj\Debug\net8.0\Practise.pdb
+C:\Users\revan\Desktop\Programming\Portfolio-AB107\Practise_ConsoleApp\Practise\obj\Debug\net8.0\Practise.genruntimeconfig.cache
+C:\Users\revan\Desktop\Programming\Portfolio-AB107\Practise_ConsoleApp\Practise\obj\Debug\net8.0\ref\Practise.dll
