@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\revan\\Desktop\\Programming\\Portfolio-AB107\\ConsoleApp(WithList)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BDA7C3-5B6E-451E-8E46-006ADAE820A1}|ConsoleApp(WithList)\\ConsoleApp(WithList).csproj|c:\\users\\revan\\desktop\\programming\\portfolio-ab107\\consoleapp(withlist)\\consoleapp(withlist)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BDA7C3-5B6E-451E-8E46-006ADAE820A1}|ConsoleApp(WithList)\\ConsoleApp(WithList).csproj|solutionrelative:consoleapp(withlist)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EA5315-BCCA-4725-9CE9-1362F563B0AC}|Core\\Core.csproj|c:\\users\\revan\\desktop\\programming\\portfolio-ab107\\consoleapp(withlist)\\core\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EA5315-BCCA-4725-9CE9-1362F563B0AC}|Core\\Core.csproj|solutionrelative:core\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EA5315-BCCA-4725-9CE9-1362F563B0AC}|Core\\Core.csproj|c:\\users\\revan\\desktop\\programming\\portfolio-ab107\\consoleapp(withlist)\\core\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EA5315-BCCA-4725-9CE9-1362F563B0AC}|Core\\Core.csproj|solutionrelative:core\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EA5315-BCCA-4725-9CE9-1362F563B0AC}|Core\\Core.csproj|c:\\users\\revan\\desktop\\programming\\portfolio-ab107\\consoleapp(withlist)\\core\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EA5315-BCCA-4725-9CE9-1362F563B0AC}|Core\\Core.csproj|solutionrelative:core\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EA5315-BCCA-4725-9CE9-1362F563B0AC}|Core\\Core.csproj|c:\\users\\revan\\desktop\\programming\\portfolio-ab107\\consoleapp(withlist)\\core\\helpers\\exceptions\\invalidcapacityexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EA5315-BCCA-4725-9CE9-1362F563B0AC}|Core\\Core.csproj|solutionrelative:core\\helpers\\exceptions\\invalidcapacityexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EA5315-BCCA-4725-9CE9-1362F563B0AC}|Core\\Core.csproj|c:\\users\\revan\\desktop\\programming\\portfolio-ab107\\consoleapp(withlist)\\core\\helpers\\exceptions\\invalidpriceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EA5315-BCCA-4725-9CE9-1362F563B0AC}|Core\\Core.csproj|solutionrelative:core\\helpers\\exceptions\\invalidpriceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EA5315-BCCA-4725-9CE9-1362F563B0AC}|Core\\Core.csproj|c:\\users\\revan\\desktop\\programming\\portfolio-ab107\\consoleapp(withlist)\\core\\helpers\\exceptions\\invalidnameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EA5315-BCCA-4725-9CE9-1362F563B0AC}|Core\\Core.csproj|solutionrelative:core\\helpers\\exceptions\\invalidnameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EA5315-BCCA-4725-9CE9-1362F563B0AC}|Core\\Core.csproj|c:\\users\\revan\\desktop\\programming\\portfolio-ab107\\consoleapp(withlist)\\core\\helpers\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EA5315-BCCA-4725-9CE9-1362F563B0AC}|Core\\Core.csproj|solutionrelative:core\\helpers\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EA5315-BCCA-4725-9CE9-1362F563B0AC}|Core\\Core.csproj|c:\\users\\revan\\desktop\\programming\\portfolio-ab107\\consoleapp(withlist)\\core\\helpers\\exceptions\\notavailableexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EA5315-BCCA-4725-9CE9-1362F563B0AC}|Core\\Core.csproj|solutionrelative:core\\helpers\\exceptions\\notavailableexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\Programming\\Portfolio-AB107\\ConsoleApp(WithList)\\Core\\Models\\Hotel.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Hotel.cs",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\Programming\\Portfolio-AB107\\ConsoleApp(WithList)\\Core\\Models\\Hotel.cs",
+              "RelativeToolTip": "Core\\Models\\Hotel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T17:13:50.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\Programming\\Portfolio-AB107\\ConsoleApp(WithList)\\Core\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\Programming\\Portfolio-AB107\\ConsoleApp(WithList)\\Core\\Models\\Room.cs",
+              "RelativeToolTip": "Core\\Models\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T17:13:16.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\Programming\\Portfolio-AB107\\ConsoleApp(WithList)\\Core\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\Programming\\Portfolio-AB107\\ConsoleApp(WithList)\\Core\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Core\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T17:12:55.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvalidCapacityException.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\Programming\\Portfolio-AB107\\ConsoleApp(WithList)\\Core\\Helpers\\Exceptions\\InvalidCapacityException.cs",
+              "RelativeDocumentMoniker": "Core\\Helpers\\Exceptions\\InvalidCapacityException.cs",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\Programming\\Portfolio-AB107\\ConsoleApp(WithList)\\Core\\Helpers\\Exceptions\\InvalidCapacityException.cs",
+              "RelativeToolTip": "Core\\Helpers\\Exceptions\\InvalidCapacityException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T18:50:42.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvalidPriceException.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\Programming\\Portfolio-AB107\\ConsoleApp(WithList)\\Core\\Helpers\\Exceptions\\InvalidPriceException.cs",
+              "RelativeDocumentMoniker": "Core\\Helpers\\Exceptions\\InvalidPriceException.cs",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\Programming\\Portfolio-AB107\\ConsoleApp(WithList)\\Core\\Helpers\\Exceptions\\InvalidPriceException.cs",
+              "RelativeToolTip": "Core\\Helpers\\Exceptions\\InvalidPriceException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T18:47:09.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InvalidNameException.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\Programming\\Portfolio-AB107\\ConsoleApp(WithList)\\Core\\Helpers\\Exceptions\\InvalidNameException.cs",
+              "RelativeDocumentMoniker": "Core\\Helpers\\Exceptions\\InvalidNameException.cs",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\Programming\\Portfolio-AB107\\ConsoleApp(WithList)\\Core\\Helpers\\Exceptions\\InvalidNameException.cs",
+              "RelativeToolTip": "Core\\Helpers\\Exceptions\\InvalidNameException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T18:39:02.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\Programming\\Portfolio-AB107\\ConsoleApp(WithList)\\Core\\Helpers\\Helper.cs",
+              "RelativeDocumentMoniker": "Core\\Helpers\\Helper.cs",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\Programming\\Portfolio-AB107\\ConsoleApp(WithList)\\Core\\Helpers\\Helper.cs",
+              "RelativeToolTip": "Core\\Helpers\\Helper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T17:09:16.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\Programming\\Portfolio-AB107\\ConsoleApp(WithList)\\ConsoleApp(WithList)\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp(WithList)\\Program.cs",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\Programming\\Portfolio-AB107\\ConsoleApp(WithList)\\ConsoleApp(WithList)\\Program.cs",
+              "RelativeToolTip": "ConsoleApp(WithList)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T17:05:55.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NotAvailableException.cs",
+              "DocumentMoniker": "C:\\Users\\revan\\Desktop\\Programming\\Portfolio-AB107\\ConsoleApp(WithList)\\Core\\Helpers\\Exceptions\\NotAvailableException.cs",
+              "RelativeDocumentMoniker": "Core\\Helpers\\Exceptions\\NotAvailableException.cs",
+              "ToolTip": "C:\\Users\\revan\\Desktop\\Programming\\Portfolio-AB107\\ConsoleApp(WithList)\\Core\\Helpers\\Exceptions\\NotAvailableException.cs",
+              "RelativeToolTip": "Core\\Helpers\\Exceptions\\NotAvailableException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T17:11:35.107Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
